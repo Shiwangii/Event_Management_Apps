@@ -1,0 +1,16 @@
+.vscode/
+node_modules/
+client/node_modules/
+server/node_modules/
+.env
+*.env
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.debug
+*.tmp
+*.bak
